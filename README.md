@@ -8,6 +8,7 @@ Expect this repo to be deleted.
 - Main docs: https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/
 - nesting: https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/linked-templates?tabs=azure-powershell
 - ARM Templates master class : https://www.youtube.com/watch?v=Ge_Sp-1lWZ4&list=PLGjZwEtPN7j8_kgw92LHBrry2gnVc3NXQ
+- ARM resourses (with ARM/Bicep/Terraform) - https://learn.microsoft.com/en-us/azure/templates/microsoft.resources/builtintemplatespecs?pivots=deployment-language-arm-template
 
 # Template Nesting
 
